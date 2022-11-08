@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working at Letgo (https://github.com/letgoapp)
+I'm currently working at Olx Autos
 
 Learning:
  - Scala
