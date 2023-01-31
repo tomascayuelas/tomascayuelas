@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm currently working at Olx Autos
+I'm currently working at Olx Autos as a Sofware Backend Developer
 
-Learning:
- - Scala
- - PHP
+I mainly coding in Kotlin and Scala, but I try to always have these other languages ready: 
+ - Php
  - Rust
- - Javascript/Typescript
- - C#
+ - Python
+ - Bash
+ - Typescript/Javacript
+
+to do....do ..tooo..doo..tooooo....dooooo.tooo.doooo
